@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Perfil de Github</h1>
+      <h1>Buscar Perfil de Github</h1>
       <div>
         {/* Tendremos un input y un botón que nos permitirá
   buscar cualquier usuario de GH
